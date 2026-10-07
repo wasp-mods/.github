@@ -1,0 +1,1 @@
+<p align="center"><img src="https://raw.githubusercontent.com/wasp-mods/.assets/refs/heads/main/res/ino/banner/upscaled/mods.png" alt="wasp"></p>
